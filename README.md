@@ -80,7 +80,7 @@ This program works similar to the main solution and outputs the desired images t
 
 * Output: dronePath.kml
 
-![drone_path.jpeg](drone_path.jpeg)
+![drone_path.jpeg](drone_path.JPG)
 A simple program which creates a kml path from the SRT file.
 
 
