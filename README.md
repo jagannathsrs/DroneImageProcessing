@@ -1,8 +1,4 @@
-# skylarkDrones
-
-**Greetings to the evaluator!**
-
-It was indeed a pleasure working on the given task for the position of an intern at your esteemed company. Without further adeu, here is my approach to the problem.
+#Drone image processing
  
 **Task**:*For the video, rather than sending the actual video, I'm just going to send you the SRT file. That's basically like a subtitle file, that has the coordinates of the drone at all the different times in the video.*
  
