@@ -81,7 +81,3 @@ A simple program which creates a kml path from the SRT file.
 
 
 The flight parameters are dynamic and can be adjusted during runtime and any number of images can be handled.
-
-That'll be all from my side. Would love feedback on my approach!
-
-Thank you
